@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/one-suite-reversed-spider-solitaire/static/css/main.3919eb2b.chunk.css",
-    "main.js": "/one-suite-reversed-spider-solitaire/static/js/main.8f8aa1f1.chunk.js",
-    "main.js.map": "/one-suite-reversed-spider-solitaire/static/js/main.8f8aa1f1.chunk.js.map",
+    "main.css": "/one-suite-reversed-spider-solitaire/static/css/main.b179c5ca.chunk.css",
+    "main.js": "/one-suite-reversed-spider-solitaire/static/js/main.846e39d0.chunk.js",
+    "main.js.map": "/one-suite-reversed-spider-solitaire/static/js/main.846e39d0.chunk.js.map",
     "runtime-main.js": "/one-suite-reversed-spider-solitaire/static/js/runtime-main.c5a34120.js",
     "runtime-main.js.map": "/one-suite-reversed-spider-solitaire/static/js/runtime-main.c5a34120.js.map",
     "static/js/2.a1c1a60c.chunk.js": "/one-suite-reversed-spider-solitaire/static/js/2.a1c1a60c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.8e709a4d.chunk.js": "/one-suite-reversed-spider-solitaire/static/js/3.8e709a4d.chunk.js",
     "static/js/3.8e709a4d.chunk.js.map": "/one-suite-reversed-spider-solitaire/static/js/3.8e709a4d.chunk.js.map",
     "index.html": "/one-suite-reversed-spider-solitaire/index.html",
-    "static/css/main.3919eb2b.chunk.css.map": "/one-suite-reversed-spider-solitaire/static/css/main.3919eb2b.chunk.css.map",
+    "static/css/main.b179c5ca.chunk.css.map": "/one-suite-reversed-spider-solitaire/static/css/main.b179c5ca.chunk.css.map",
     "static/js/2.a1c1a60c.chunk.js.LICENSE.txt": "/one-suite-reversed-spider-solitaire/static/js/2.a1c1a60c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c5a34120.js",
     "static/js/2.a1c1a60c.chunk.js",
-    "static/css/main.3919eb2b.chunk.css",
-    "static/js/main.8f8aa1f1.chunk.js"
+    "static/css/main.b179c5ca.chunk.css",
+    "static/js/main.846e39d0.chunk.js"
   ]
 }

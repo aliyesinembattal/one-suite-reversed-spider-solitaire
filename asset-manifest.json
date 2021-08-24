@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/one-suite-reversed-spider-solitaire/static/css/main.b179c5ca.chunk.css",
-    "main.js": "/one-suite-reversed-spider-solitaire/static/js/main.846e39d0.chunk.js",
-    "main.js.map": "/one-suite-reversed-spider-solitaire/static/js/main.846e39d0.chunk.js.map",
+    "main.js": "/one-suite-reversed-spider-solitaire/static/js/main.450fc5ac.chunk.js",
+    "main.js.map": "/one-suite-reversed-spider-solitaire/static/js/main.450fc5ac.chunk.js.map",
     "runtime-main.js": "/one-suite-reversed-spider-solitaire/static/js/runtime-main.c5a34120.js",
     "runtime-main.js.map": "/one-suite-reversed-spider-solitaire/static/js/runtime-main.c5a34120.js.map",
     "static/js/2.a1c1a60c.chunk.js": "/one-suite-reversed-spider-solitaire/static/js/2.a1c1a60c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c5a34120.js",
     "static/js/2.a1c1a60c.chunk.js",
     "static/css/main.b179c5ca.chunk.css",
-    "static/js/main.846e39d0.chunk.js"
+    "static/js/main.450fc5ac.chunk.js"
   ]
 }
